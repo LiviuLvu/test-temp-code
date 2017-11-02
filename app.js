@@ -1,1 +1,3 @@
-console.log('this is a test');
+const startAppMessage = 'this is a test';
+const changedAppMessage = 'modified file';
+console.log(changedAppMessage);

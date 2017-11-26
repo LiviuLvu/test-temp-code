@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "grunt": "^1.0.1",
     "grunt-contrib-less": "^1.4.1",
     "jest": "^21.2.1"
   },

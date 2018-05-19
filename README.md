@@ -45,3 +45,4 @@ optional arguments:
 ```
 
 Test multiple commits 1
+Test multiple commits 2

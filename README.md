@@ -43,3 +43,5 @@ optional arguments:
   --no-tag-previous-revision  
                         Preserve older revision when pushing  
 ```
+
+Test multiple commits 1

@@ -4,6 +4,7 @@ Grunt
 Less  
 Angular  
 
+Comparing PR from command line vs Git online interface
 
 ## [Testing PR Requests from command line](https://github.com/jd/git-pull-request)
 ### Options / help
@@ -43,3 +44,5 @@ optional arguments:
   --no-tag-previous-revision  
                         Preserve older revision when pushing  
 ```
+
+

@@ -4,8 +4,8 @@ Grunt
 Less  
 Angular  
 
-Comparing PR from command line 
-vs Git online interface
+Comparing PR from command line  
+vs Git online interface  
 
 ## [Testing PR Requests from command line](https://github.com/jd/git-pull-request)
 ### Options / help

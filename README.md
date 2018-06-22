@@ -1,8 +1,4 @@
 # Experimenting with settings and technologies
-
-Grunt  
-Less  
-Webpack  
   
 Comparing PR from command line  
 vs Git online interface  

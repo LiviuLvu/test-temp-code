@@ -1,1 +1,0 @@
-// practice area for codewars challenges

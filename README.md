@@ -2,8 +2,8 @@
 
 Grunt  
 Less  
-Angular  
-
+Webpack  
+  
 Comparing PR from command line  
 vs Git online interface  
 
